@@ -1,13 +1,4 @@
-# Image Captioning app 📷
-
----
-
-`Build-A-Bit` `Concetto 19`
-
-Team Name : The Unknowns
-
----
-
+# Image Caption Generator app 📷
 
 ## Problem Overview
 
@@ -31,22 +22,5 @@ Blindness makes life rather difficult for people who suffer from this health pro
 
 ---
 
-## Workflow
-
-<img src="https://github.com/HeliosX7/caption-generator-app/blob/master/images/workflow.JPG" height="600">
-
-
----
-
-
-## Demo
-
 <img src="https://github.com/HeliosX7/caption-generator-app/blob/master/images/demo.gif" width="280" height="550">
 
-
----
-
-
-## References
-
-https://github.com/SHARONZACHARIA/Deploy-ML-model
